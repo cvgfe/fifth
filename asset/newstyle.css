@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(219, 230, 219, 0.849);
+}
+#show{
+    width: 900px;
+    height: 1350px;
+    background-color: white;
+    margin: 0 auto;
+}
+#write{
+    width: 900px;
+    height: 20px;
+    border: 2px solid;
+}
+.box{
+    width: 900px;
+   
+    margin: 0 auto;
+    
+    background-color: white;
+}
+#czx{
+    position: absolute;
+    left: 1030px;
+    font-size: larger;
+}
