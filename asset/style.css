@@ -1,0 +1,33 @@
+ .row-box li{
+    list-style: none;
+    display: inline-block;
+    width: 150px;
+}
+.box1{
+    
+    margin: 0 auto;
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+}
+li{   
+    list-style: none;
+} 
+input{
+    width: 100px;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 400px;
+    height: 400px;
+}
+.color1{
+    background-color: brown;
+}
+.txt1{
+    font-size: 9px;
+}
